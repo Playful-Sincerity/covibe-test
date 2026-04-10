@@ -1,13 +1,13 @@
 ---
 id: dashboard-renderer
 title: Build dashboard renderer from JSON
-status: ready
-assigned_to: null
+status: in-progress
+assigned_to: wisdom-air
 created_by: orchestrator
 created_at: 2026-04-10 06:30
-updated_at: 2026-04-10 06:30
+updated_at: 2026-04-10 06:29
 completed_at: null
-branch: null
+branch: wisdom-air/dashboard-renderer
 appetite: small
 workflow_type: implementation
 folder: src
