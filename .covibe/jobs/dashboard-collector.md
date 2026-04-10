@@ -1,13 +1,13 @@
 ---
 id: dashboard-collector
 title: Build .covibe/ data collector script
-status: ready
-assigned_to: null
+status: in-progress
+assigned_to: wisdom-happy
 created_by: orchestrator
 created_at: 2026-04-10 06:30
-updated_at: 2026-04-10 06:30
+updated_at: 2026-04-10 06:48
 completed_at: null
-branch: null
+branch: wisdom-happy/dashboard-collector
 appetite: small
 workflow_type: implementation
 folder: src
