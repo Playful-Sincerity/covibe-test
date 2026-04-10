@@ -1,18 +1,21 @@
 ---
 user: wisdom-happy
 started: 2026-04-10 06:15
-last_updated: 2026-04-10 06:48
+last_updated: 2026-04-10 07:30
 status: active
 current_job: dashboard-collector
 ---
 
 ## Current Task
-Building the dashboard collector — Python script to extract .covibe/ data into JSON.
+Rejoined session — reviewing state and checking what's left to finish.
 
 ## Recent Actions
 - Joined CoVibe session
 - Rejoined session (new conversation)
 - Claimed dashboard-collector
+- Created src/collector.py — frontmatter parser, reads config/sessions/jobs/messages
+- Tested: outputs valid JSON with all .covibe/ data
+- Rejoined session (third conversation)
 
 ## Blockers
 None
@@ -21,4 +24,4 @@ None
 None
 
 ## Files Touched
-None yet
+- src/collector.py (created)
